@@ -1,0 +1,2 @@
+#Enable local server to check modification.
+bundle exec jekyll serve
